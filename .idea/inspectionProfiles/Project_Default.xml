@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="news.views.anons" />
+          <option value="news.views.base_news" />
+          <option value="news.views.tops" />
+          <option value="object.items" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
